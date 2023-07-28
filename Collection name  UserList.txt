@@ -1,0 +1,5 @@
+Collection name : UserList
+password : project@123
+dbname / schema : db_userlist
+tables : user
+
